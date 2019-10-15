@@ -55,13 +55,14 @@ label {
     font: 1rem 'Fira Sans', sans-serif;
 }
 
-input {
+input {border: thick double #32a1ce;
     margin: .4rem;
 }
 body {background-image: url(https://i.kym-cdn.com/photos/images/original/000/974/391/ece.gif);}
 
 
-.blue-input:focus {border: solid;
+
+.blue-input:focus { border: 4rem outset pink
   background: yellow;
   color: blue;
 }
